@@ -1,7 +1,7 @@
 package homework.lab1;
 
 public class SuperListImpl implements SuperList{
-    int[] myArray = new int[1];;
+    int[] myArray = new int[1];
 
     @Override
     public void add(int number) {
