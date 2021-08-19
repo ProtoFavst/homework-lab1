@@ -11,7 +11,7 @@ public class ColorFrame extends JFrame{
     public ColorFrame(int counter[]) throws HeadlessException {
 
         setSize(500,500);
-        JButton button = new JButton("click me to be red");;
+        JButton button = new JButton("click me to be red");
 
 
         button.addActionListener(new ActionListener() {
