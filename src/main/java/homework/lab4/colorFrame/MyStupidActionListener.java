@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 
 public class MyStupidActionListener implements ActionListener {
 
-    private ColorFrame colorFrame;;
+    private ColorFrame colorFrame;
 
     public MyStupidActionListener(ColorFrame colorFrame) {
         this.colorFrame = colorFrame;
