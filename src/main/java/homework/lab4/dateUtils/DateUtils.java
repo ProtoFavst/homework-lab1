@@ -22,9 +22,4 @@ public class DateUtils {
 
     }
 
-    public static void main(String[] args) {
-        DateUtils dateUtils = new DateUtils();
-        dateUtils.dateToString(new Date());
-        dateUtils.stringTodate("2021+08+19 по времени 15+33+24");
-    }
 }
